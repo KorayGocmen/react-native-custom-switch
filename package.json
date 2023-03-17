@@ -1,5 +1,5 @@
 {
-  "name": "react-native-switch",
+  "name": "vesta-react-native-switch",
   "version": "1.0.7",
   "description": "A fully customizable switch component for react native.",
   "main": "src/index.js",
